@@ -20,6 +20,8 @@ broken with it off.
 - **Procedural terrain generation** — hierarchical PCG node graph producing three
   distinct biomes from a single Perlin noise field (Unity, Game AI coursework).
   *(coursework, private)*
+
+  **[→ Media portfolio](https://github.com/MarianaZornes/portfolio)** — gameplay footage, character art, and artifacts from the projects above.
   
 ### Toolbox
 Python · PyTorch · scikit-learn · C# / Unity · Unreal Engine 5 (certified) · C++ · Java · SQL · Git
