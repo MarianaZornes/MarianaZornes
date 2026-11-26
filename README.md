@@ -13,6 +13,8 @@ deterministic validator decides which ones hold. 46 tests, 7-experiment reproduc
 harness; validator ablation: 0% of attacks land with validation on vs. 100% of worlds
 broken with it off.
 
+📁 **[Full portfolio — gameplay, character art, and project media →](https://github.com/MarianaZornes/portfolio)**
+
 ### Other projects
 - **Killer Robot** — 3D Unity action game built with a five-person team: character
   modeling/rigging/animation for a core enemy type, C# hazard systems (area damage,
