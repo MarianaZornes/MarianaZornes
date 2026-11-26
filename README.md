@@ -13,6 +13,14 @@ deterministic validator decides which ones hold. 46 tests, 7-experiment reproduc
 harness; validator ablation: 0% of attacks land with validation on vs. 100% of worlds
 broken with it off.
 
+### Other projects
+- **Killer Robot** — 3D Unity action game built with a five-person team: character
+  modeling/rigging/animation for a core enemy type, C# hazard systems (area damage,
+  chain detonations). *(team repo, private)*
+- **Procedural terrain generation** — hierarchical PCG node graph producing three
+  distinct biomes from a single Perlin noise field (Unity, Game AI coursework).
+  *(coursework, private)*
+  
 ### Toolbox
 Python · PyTorch · scikit-learn · C# / Unity · Unreal Engine 5 (certified) · C++ · Java · SQL · Git
 
